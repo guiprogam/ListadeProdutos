@@ -1,2 +1,6 @@
-# ListadeProdutos
-Programa em linguagem C que funciona como um sistema de logística que compra, vende, procura e lista
+# Trabalho_Final_LP_2022
+TRABALHO FINAL PARA A MATÉRIA DE LINGUAGEM DE PROGRAMAÇÃO. REALIZADO PELOS ALUNOS DA FATEC DE MOGI MIRIM.
+
+PARTICIPANTES: -GABRIEL TRANI AVANCINI -GUILHERME DA SILVA FREIRE -VINÍCIUS SILVA DE JESUS
+
+link: https://youtu.be/LC5axG5W7sI
